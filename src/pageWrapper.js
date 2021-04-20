@@ -1,4 +1,4 @@
-import Sidebar from "./sidebar";
+import Sidebar from "./sidebar/sidebar";
 import Content from "./contentWrapper";
 const wrapper = () => {
     return (
